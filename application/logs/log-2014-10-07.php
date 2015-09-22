@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2014-10-07 19:24:07 --> 404 Page Not Found --> maxcdn.bootstrapcdn.com
+ERROR - 2014-10-07 19:24:08 --> 404 Page Not Found --> maxcdn.bootstrapcdn.com
+ERROR - 2014-10-07 19:24:10 --> 404 Page Not Found --> maxcdn.bootstrapcdn.com
+ERROR - 2014-10-07 23:07:50 --> 404 Page Not Found --> apple-touch-icon-120x120-precomposed.png
+ERROR - 2014-10-07 23:07:50 --> 404 Page Not Found --> apple-touch-icon-120x120.png
+ERROR - 2014-10-07 23:07:50 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2014-10-07 23:07:50 --> 404 Page Not Found --> apple-touch-icon.png
+ERROR - 2014-10-07 23:25:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2014-10-07 23:38:33 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:39:02 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:39:04 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:39:34 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:40:46 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:40:53 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:40:57 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:41:29 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:41:56 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:42:27 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:43:22 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:43:35 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:44:40 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:46:00 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:46:05 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:46:05 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:46:07 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:46:08 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:46:10 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:46:55 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:47:16 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:48:39 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:48:42 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:49:28 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:49:54 --> 404 Page Not Found --> static
+ERROR - 2014-10-07 23:50:15 --> 404 Page Not Found --> static
